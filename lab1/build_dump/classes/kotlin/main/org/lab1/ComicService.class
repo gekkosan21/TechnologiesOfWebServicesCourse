@@ -1,0 +1,11 @@
+// IntelliJ API Decompiler stub source generated from a class file
+// Implementation of methods is not available
+
+package org.lab1
+
+@javax.jws.WebService public final class ComicService public constructor() {
+    public final var soapFaultBuilder: com.sun.xml.ws.fault.SOAPFaultBuilder? /* compiled code */
+
+    @javax.jws.WebMethod public open fun getAll(): kotlin.collections.List<org.lab1.BookLib> { /* compiled code */ }
+}
+

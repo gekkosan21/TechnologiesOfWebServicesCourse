@@ -1,0 +1,21 @@
+// IntelliJ API Decompiler stub source generated from a class file
+// Implementation of methods is not available
+
+package org.lab1
+
+public final class ComicLib public constructor(id: kotlin.Int, title: kotlin.String?, author: kotlin.String?, genre: kotlin.String?, isbn: kotlin.String?, year: kotlin.Int) {
+    public final var author: kotlin.String? /* compiled code */
+
+    public final var genre: kotlin.String? /* compiled code */
+
+    public final var id: kotlin.Int /* compiled code */
+
+    public final var isbn: kotlin.String? /* compiled code */
+
+    public final var title: kotlin.String? /* compiled code */
+
+    public final var year: kotlin.Int /* compiled code */
+
+    public open fun toString(): kotlin.String { /* compiled code */ }
+}
+
